@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustTip", "JustTip\JustTip.csproj", "{CBE41A10-292E-418A-8B9B-D78A5355746F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustTipTests", "JustTipTests\JustTipTests.csproj", "{9AE8859D-D8BC-47FE-911D-18D6BDBAB6D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE41A10-292E-418A-8B9B-D78A5355746F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE41A10-292E-418A-8B9B-D78A5355746F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE41A10-292E-418A-8B9B-D78A5355746F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE41A10-292E-418A-8B9B-D78A5355746F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE8859D-D8BC-47FE-911D-18D6BDBAB6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE8859D-D8BC-47FE-911D-18D6BDBAB6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE8859D-D8BC-47FE-911D-18D6BDBAB6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE8859D-D8BC-47FE-911D-18D6BDBAB6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52754390-D86C-43F9-A279-83BE17A77E99}
+	EndGlobalSection
+EndGlobal
